@@ -6,7 +6,7 @@ In this study, we propose an Epidemic-guided deep learning (EGDL) framework by i
 
 Usage of the repository for the paper "Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak [2]".
 
-* We develop a modified networked SIR model by considering the saturated incidence rate and graph Laplacian diffusion to model the spatial transmission dynamics of TB outbreaks. The key epidemiological principles including positivity and boundedness are verified. The global stability analysis of the modified networked SIR model is performed using Green's formula and comparison principle for both disease-free and endemic equilibria.
+* We introduce a modified networked SIR model by considering the saturated incidence rate and graph Laplacian diffusion to model the spatial transmission dynamics of TB outbreaks. The key epidemiological principles including positivity and boundedness are verified. The global stability analysis of the modified networked SIR model is performed using Green's formula and comparison principle for both disease-free and endemic equilibria.
 
 ![Stability_Plot](https://github.com/mad-stat/EGDL/blob/main/Model/Images/Stability_Analysis.png)
 
