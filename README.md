@@ -29,11 +29,11 @@ Barman, M., Panja, M., Mishra, N., & Chakraborty, T. (2025).\
 Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak.\
 arXiv preprint arXiv:2502.10786.
 
-@article{barman2025epidemic,
-  title={Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak},
-  author={Barman, Madhab and Panja, Madhurima and Mishra, Nachiketa and Chakraborty, Tanujit},
-  journal={arXiv preprint arXiv:2502.10786},
-  year={2025}
+@article{barman2025epidemic,\
+  title={Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak},\
+  author={Barman, Madhab and Panja, Madhurima and Mishra, Nachiketa and Chakraborty, Tanujit},\
+  journal={arXiv preprint arXiv:2502.10786},\
+  year={2025}\
 }
 
 
