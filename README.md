@@ -25,10 +25,18 @@ Usage of the repository for the paper "Epidemic-guided deep learning for spatiot
 
 
 ## Citing Our Work
-Barman, Madhab; Panja, Madhurima; Mishra, Nachiketa; and Chakraborty, Tanujit.\
-"Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak."\
-ArXiv (2025)
+Barman, M., Panja, M., Mishra, N., & Chakraborty, T. (2025).\
+Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak.\
+arXiv preprint arXiv:2502.10786.
+
+@article{barman2025epidemic,
+  title={Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak},
+  author={Barman, Madhab and Panja, Madhurima and Mishra, Nachiketa and Chakraborty, Tanujit},
+  journal={arXiv preprint arXiv:2502.10786},
+  year={2025}
+}
+
 
 ## References
 * <a id="1">[1]</a> [Japan_TB_outbreak_data](https://jata.or.jp/rit/ekigaku/en)
-* <a id="2">[2]</a> Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak Paper.
+* <a id="2">[2]</a> [Epidemic-guided deep learning for spatiotemporal forecasting of Tuberculosis outbreak.](https://arxiv.org/abs/2502.10786)
