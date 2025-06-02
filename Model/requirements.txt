@@ -1,0 +1,4 @@
+The codes require the following versions of the packages to be run on Google Colab
+1. pytensor v2.15.0
+2. arviz v0.16.1
+3. PyMC v5.8.0
